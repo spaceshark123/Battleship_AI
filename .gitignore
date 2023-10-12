@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# User-specific files
+*.iml
+*.iws
+*.ipr
+
+# macOS specific files
+.DS_Store
+
+# Sensitive or environment-specific information (e.g., API keys)
+config.properties
+
+*.nix
+*.xml
